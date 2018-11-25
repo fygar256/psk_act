@@ -3,6 +3,7 @@
 # テンキーが付いてないノート用の、
 # PSK 4ゲーム（Pack'n boy,Galack,Star Struck,IT）
 # の為の、キーマップ変更、リストア付きのM88呼び出し
+# 各ファイルの格納ディレクトリは、~/M88
 #
 #
 (	cd ~/M88; xmodmap ~/M88/xmodemap1; wine ~/M88/M88m.exe ~/M88/PSK_ACT.d88; xmodmap ~/M88/xmodemap0 ) &
