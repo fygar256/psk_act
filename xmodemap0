@@ -1,0 +1,7 @@
+keycode  10 = 1 exclam 1 exclam
+keycode  11 = 2 quotedbl 2 quotedbl
+keycode  12 = 3 numbersign 3 numbersign
+keycode 111 = Up NoSymbol Up
+keycode 113 = Left NoSymbol Left
+keycode 114 = Right NoSymbol Right
+keycode 116 = Down NoSymbol Down
