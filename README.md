@@ -4,8 +4,7 @@
 
 psk_act.d88にはGalack,Pack'n Boy, Star Struckが含まれ、IT.d88はInternal Troubleです。
 
-Internal Troubleには、緑色の「顔」を打ち倒すと、跡が次の面で見えない敵になるというバグがあります。そういうゲームだと思ってやればバグではないのですが、作者の意図しないところで起こっているので、やっぱりバグです。
-
+Internal Troubleには、わかりにくいルールとして、緑色の「顔」を打ち倒すと、跡が次の面で見えない敵になるということがあります。
 
 僕はLinuxを使っているので、windows用PC-8801エミュレーター、M88をwineで動かしています。
 
