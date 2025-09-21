@@ -6,7 +6,7 @@ psk_act.d88にはGalack,Pack'n Boy, Star Struckが含まれ、IT.d88はInternal 
 
 Internal Troubleには、わかりにくいルールとして、緑色の「顔」を打ち倒すと、跡が次の面で見えない敵になるということがあります。
 
-僕はLinuxを使っているので、windows用PC-8801エミュレーター、M88をwineで動かしています。
+僕はFreeBSDを使っているので、windows用PC-8801エミュレーター、M88をwine（32bit）で動かしています。
 
 M88.exeと、( M88　改+ rel 2.21 18/10/04　バージョンが良い) ROMファイル等は、別途手に入れて下さい。
 
